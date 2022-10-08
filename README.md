@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rootnote Web](https://github.com/Sqrroot02/rootnoteweb)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **Java**
 
 <p align="left">
 </p>
