@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">Welcome to my Github Profile!</h3>
 
-- 🔭 I’m currently working on [Rootnote Web](https://github.com/Sqrroot02/rootnoteweb)
+- 🔭 I’m currently working on [Rootnote Web](https://github.com/Sqrroot02/rootnoteweb) and Root Stonks
 
 - 🌱 I’m currently learning **React.js** and **Java**
 
